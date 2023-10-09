@@ -28,7 +28,11 @@ Test123!
 ✓ Password meets the security requirements
 ```
 
+## Wiki
+
+This exploration activity has an accompanying wiki which you can find [here](https://github.com/CS2613-FA23/explorationactivity1-willrossignol/wiki)
+
 ## Resources used for the sample program
 
-[Valid Email Format](https://help.xmatters.com/ondemand/trial/valid_email_format.htm)
+[Valid Email Format](https://help.xmatters.com/ondemand/trial/valid_email_format.htm) \
 [re Module Documentation](https://docs.python.org/3/library/re.html)
